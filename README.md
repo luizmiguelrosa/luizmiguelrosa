@@ -1,9 +1,6 @@
 <h1 align="center">Eu sou Luiz Miguel mas pode me chamar de Masso !</h1>
 
-<h3>
-
-</h3>
-<div align="right">
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masso13&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
