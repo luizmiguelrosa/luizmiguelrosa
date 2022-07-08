@@ -6,8 +6,8 @@
       ✔️ Programo em Python 🐍 e Lua 🌑
       <div>
       <br>
-      <a href="https://www.youtube.com/channel/UCRkp0oAlOlUYju2lG4fO4JA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-      <a href="https://www.instagram.com/luizmiguelrosa_mg" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href="https://www.youtube.com/channel/UCRkp0oAlOlUYju2lG4fO4JA" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+      <a href="https://www.instagram.com/luizmiguelrosa_mg" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       </div>
 </h3>
 
