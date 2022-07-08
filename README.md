@@ -1,6 +1,6 @@
 ***
 <h3 align="center">
-      🏫 Escola Estadual Professor Raimundo Martiniano Ferreira<br>
+      🏫 Escola Estadual Professor Raymundo Martiniano Ferreira<br>
       📚 3º ano do Ensino Médio Técnico Integral<br>
       🎓 Informática Técnica<br>
       ✔️ Programo em Python e Lua
