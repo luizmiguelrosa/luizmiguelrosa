@@ -3,7 +3,7 @@
       🏫 Escola Estadual Professor Raymundo Martiniano Ferreira<br>
       📚 3º ano do Ensino Médio Técnico Integral<br>
       🎓 Informática Técnica<br>
-      ✔️ Programo em Python 🐍 e Lua 🌑
+      ✔️ Programo em Python 🐍
       <div>
       <br>
       <a href="https://www.youtube.com/channel/UCRkp0oAlOlUYju2lG4fO4JA" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
