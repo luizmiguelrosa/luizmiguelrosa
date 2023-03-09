@@ -1,5 +1,4 @@
 <h1 align="center">Eu sou Luiz Miguel, vulgo Masso</h1>
-<h3 align="center">Desenvolvedor de Software</h3>
 
 - Trabalho atualmente com [Classificador de Textos](https://github.com/Masso13/NLP-Classifier)
 
