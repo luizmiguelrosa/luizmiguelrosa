@@ -2,6 +2,8 @@
 
 - Trabalho atualmente com [Classificador de Textos](https://github.com/Masso13/NLP-Classifier)
 
+- Curso **Análise e Desenvolvimento de Sistemas**
+
 - Estou aprendendo **Técnicas de Front e Back-end, Inteligencia Artificial e Algoritmos**
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=masso13&show_icons=true&locale=en&layout=compact" alt="masso13" />
