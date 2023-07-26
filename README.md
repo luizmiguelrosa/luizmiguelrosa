@@ -1,13 +1,11 @@
 <h1 align="center">Eu sou Luiz Miguel, vulgo Masso</h1>
 
-- Trabalho atualmente com [Classificador de Textos](https://github.com/Masso13/NLP-Classifier)
-
 - Curso **Análise e Desenvolvimento de Sistemas**
-
+- Tenho interesse em Programação de Jogos, Robótica e Automação de Processos
 - Estou aprendendo **Técnicas de Front e Back-end, Inteligencia Artificial e Algoritmos**
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masso13&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical" alt="masso13" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=masso13&show_icons=true&theme=radical" alt="masso13" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masso13&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=midnight-purple" alt="masso13" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=masso13&show_icons=true&theme=midnight-purple" alt="masso13" />
 </div>
 
 <div align="center">
