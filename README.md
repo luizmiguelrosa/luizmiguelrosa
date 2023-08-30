@@ -1,8 +1,50 @@
-<h1 align="center">Eu sou Luiz Miguel, vulgo Masso</h1>
+<h1 align="center">Luiz Miguel (Masso)</h1>
 
-- Curso **Análise e Desenvolvimento de Sistemas**
-- Tenho interesse em Programação de Jogos, Robótica e Automação de Processos
-- Estou aprendendo **Técnicas de Front e Back-end, Inteligencia Artificial e Algoritmos**
+<p align="center">Passionate Programmer | Future Tech Explorer</p>
+
+<p align="center">🚀 Welcome to my coding universe! 🚀</p>
+
+<p align="center">
+  <em>Turning ideas into lines of code since 2017.</em>
+</p>
+
+---
+
+## About Me
+
+Hey there! I'm Luiz Miguel, but you can call me Masso. I embarked on my programming journey back in 2017 with a mission to bring my ideas to life through code. Today, I'm deeply passionate about this field, and my goal is to keep expanding my horizons and pushing the boundaries of what's possible.
+
+## Education
+
+- 🎓 Currently pursuing a degree in **Software Analysis and Development**
+
+## Interests
+
+My tech-infused heart thrives in various domains:
+
+- 🎮 **Game Programming:** I'm hooked on the thrill of turning lines of code into interactive gaming worlds. Exploring different engines and game mechanics keeps me inspired.
+
+- 🤖 **Robotics:** The fusion of software and hardware is my playground. I'm intrigued by building intelligent systems that interact with the world around them.
+
+- ⚙️ **Process Automation:** I believe in the power of automation to streamline tasks and boost efficiency. Finding elegant solutions to everyday challenges is my jam.
+
+## Learning Journey
+
+Currently, I'm on a quest to master:
+
+- 💻 Front-end and Back-end Techniques
+- 🧠 Artificial Intelligence Fundamentals
+- 📊 Algorithmic Problem Solving
+
+---
+
+<div align="center">
+  <a href="https://github.com/LuizMasso">GitHub</a> |
+  <a href="mailto:luiz.miguel@email.com">Email</a> |
+  <a href="https://www.linkedin.com/in/luizmasso">LinkedIn</a>
+</div>
+
+
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masso13&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=midnight-purple" alt="masso13" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=masso13&show_icons=true&theme=midnight-purple" alt="masso13" />
