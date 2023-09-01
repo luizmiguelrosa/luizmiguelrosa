@@ -39,13 +39,6 @@ Currently, I'm on a quest to master:
 ---
 
 <div align="center">
-  <a href="https://github.com/LuizMasso">GitHub</a> |
-  <a href="mailto:luiz.miguel@email.com">Email</a> |
-  <a href="https://www.linkedin.com/in/luizmasso">LinkedIn</a>
-</div>
-
-
-<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masso13&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=midnight-purple" alt="masso13" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=masso13&show_icons=true&theme=midnight-purple" alt="masso13" />
 </div>
