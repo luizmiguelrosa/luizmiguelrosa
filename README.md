@@ -16,7 +16,7 @@ Hey there! I'm Luiz Miguel, but you can call me Masso. I embarked on my programm
 
 ## Education
 
-- 🎓 Graduated in Technical Computing Intermediate level.
+- 🎓 Graduated in **Technical Computing Intermediate level**.
 - 🎓 Currently pursuing a degree in **Software Analysis and Development**
 
 ## Interests
