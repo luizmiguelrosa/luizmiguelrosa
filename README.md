@@ -40,8 +40,8 @@ Currently, I'm on a quest to master:
 ---
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masso13&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=midnight-purple" alt="masso13" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=masso13&show_icons=true&theme=midnight-purple" alt="masso13" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmiguelrosa&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=midnight-purple" alt="luizmiguelrosa" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=luizmiguelrosa&show_icons=true&theme=midnight-purple" alt="luizmiguelrosa" />
 </div>
 
 <div align="center">
